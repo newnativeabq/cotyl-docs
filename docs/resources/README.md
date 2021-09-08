@@ -5,3 +5,7 @@ An example in visualizing code.  As a first pass agent-resource model it was alr
 
 [GraphDAO-POC](https://github.com/newnativeabq/graphdao)
 * [Notebook](https://github.com/newnativeabq/graphdao/blob/master/DaoGraphPOC.ipynb)
+
+[Miro](https://miro.com/app/board/o9J_l1mc3Dk=/)
+
+[PM Tooling](surely.dev)
