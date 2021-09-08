@@ -3,9 +3,9 @@ A community-driven framework and specification for constructing transparent DAOs
 
 Cotyl accomplishes this by bringing:
 
-1. True to code visuals - A graph of agents and data flow through the DAO network.
-2. On-Chain interoperability - built in support and libraries for communicating with Cardano infrastructure.
-3. Local simulation - built in simulation engine for end to end testing.
+1. True to Code Visuals
+2. On-Chain Interoperability via Dandelion API Library
+3. Local Simulation Engine
 
 ## Overview Video
 [![Visual DAO](./examples/images/graphdao_1_early.png)](https://youtu.be/ACvM7TuwYPE)
