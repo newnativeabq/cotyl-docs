@@ -9,3 +9,6 @@ Cotyl accomplishes this by bringing:
 
 ## Overview Video
 [![Visual DAO](./examples/images/graphdao_1_early.png)](https://youtu.be/ACvM7TuwYPE)
+
+## Proof of Concept (first pass)
+[GraphDAO Jupyter Notebook](https://github.com/newnativeabq/graphdao/blob/master/DaoGraphPOC.ipynb)
