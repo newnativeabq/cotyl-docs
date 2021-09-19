@@ -27,7 +27,7 @@ The client application (for employees and employers) must do the following:
 ### Early Diagrams
 The Visual DAO framework does not replace upfront design and engineering.  Though we'll make some choices that limit how we can build the DAO in a sec, pictures are worth a thousand words. Let's draw a quick data flow diagram (DFD) and see how close the functioning thing comes.
 
-![TimeSheet dApp DFD](https://github.com/newnativeabq/cotyl-docs/blob/4957a8ac86218094b7271dee2b4c3be2071bd9c3/docs/examples/images/timesheetdapplicationdfd.png)
+![TimeSheet dApp DFD](https://github.com/newnativeabq/cotyl-docs/blob/main/docs/examples/images/timesheetdapplicationdfd.png)
 
 Note only the bits in the middle are controlled by the DAO.  The external entities will have references and connections, but for obvious reasons, can't be forced to message the same way.  Future iterations will need to introduce better edge protection.
 
